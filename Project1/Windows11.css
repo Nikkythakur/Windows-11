@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-position: center;
+}
+
+
+.image{
+    display: flex;
+    position: absolute;
+    top: -28px;
+    left: 0px;
+    background-color: rgb(195, 195, 248);
+}
+
+.strip{
+    padding: 25px 20px;
+    background-color: rgb(34, 32, 32);
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    left: 0px;
+}
+
+
+.taskbar{
+    display: flex;
+    position: absolute;
+    bottom: 0px;
+    left: 450px;
+}
+
+.ss{
+    display: flex;
+    position: absolute;
+    bottom: 0px;
+    left: 1060px;
+}
